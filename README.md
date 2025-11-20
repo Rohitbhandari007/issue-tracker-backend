@@ -77,6 +77,10 @@ Visit http://localhost:3000
 	- Basic validation with Zod schemas; no mention of automated tests.
 	- Trade-off: Quick to implement, but comprehensive testing would improve reliability and confidence in future changes.
 
+- **Databse SQLlite:**
+	- Basic databse no additional setups.
+	- Trade-off: Quick to implement, but later move to more better options like mySQL or posgreSQL .
+
 ---
 
 ## 🛠️ Future Improvements ( With more time )
@@ -84,6 +88,7 @@ Visit http://localhost:3000
 - Add authentication layer (e.g., JWT, OAuth)
 - Add automated testing (unit/integration)
 - Add more advanced business logic and features
+- Choose better relational database.
 
  
 ### Frontend URL : https://github.com/Rohitbhandari007/issue-tracker-frontend.git
