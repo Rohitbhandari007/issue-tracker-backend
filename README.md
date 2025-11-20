@@ -30,7 +30,12 @@ src/
 
 ## 🚀 Getting Started
 
-### 1. Create .env file with
+### 1. Clone the project
+```
+git clone https://github.com/Rohitbhandari007/issue-tracker-backend.git
+cd issue-tracker-backend
+```
+### 2. Create .env file with
 ```
 DATABASE_URL="file:./tasks.db"
 ```
@@ -81,3 +86,4 @@ Visit http://localhost:3000
 - Add more advanced business logic and features
 
  
+### Frontend URL : https://github.com/Rohitbhandari007/issue-tracker-frontend.git
